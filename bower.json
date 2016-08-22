@@ -4,7 +4,9 @@
   "authors": [
     "Quensland Government"
   ],
-  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "*"
+  },
   "license": "Creative Commons Attribution",
   "homepage": "https://github.com/qld-gov-au/glue-swe-templates"
 }
